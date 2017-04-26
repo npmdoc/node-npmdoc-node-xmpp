@@ -1,6 +1,6 @@
 # npmdoc-node-xmpp
 
-#### api documentation for  [node-xmpp (v1.1.0)](http://github.com/node-xmpp/node-xmpp)  [![npm package](https://img.shields.io/npm/v/npmdoc-node-xmpp.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-node-xmpp) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-node-xmpp.svg)](https://travis-ci.org/npmdoc/node-npmdoc-node-xmpp)
+#### basic api documentation for  [node-xmpp (v1.1.0)](http://github.com/node-xmpp/node-xmpp)  [![npm package](https://img.shields.io/npm/v/npmdoc-node-xmpp.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-node-xmpp) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-node-xmpp.svg)](https://travis-ci.org/npmdoc/node-npmdoc-node-xmpp)
 
 #### XMPP for JavaScript
 
@@ -63,7 +63,8 @@
         "url": "git+https://github.com/node-xmpp/node-xmpp.git"
     },
     "scripts": {},
-    "version": "1.1.0"
+    "version": "1.1.0",
+    "bin": {}
 }
 ```
 
